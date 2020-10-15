@@ -1,4 +1,5 @@
-# Covid19 Social Distance Monitoring Machine Learning WebApp
+# Covid19 Social Distance Monitoring Deep Learning WebApp
 
-# Machine Learning Model builf in Tensorflow 
-# And Deployed as Web App using Flask
+# Deep Learning Model built in Tensorflow 
+# And Deployed as Web App in Flask using Streamlit library
+
